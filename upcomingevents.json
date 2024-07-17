@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "imageURL": "https://res.cloudinary.com/dpossefra/image/upload/v1720316364/WhatsApp_Image_2024-07-07_at_02.32.24_gwaarz.jpg",
+    "dateAndTime": "22nd, July 2024",
+    "title": "Sustainable Agriculture Leadership Fellowship",
+    "body": "",
+    "price": "Free",
+    "location": "Virtual",
+    "registerURL": "https://forms.gle/VFnREfCiMT6PN5937",
+    "aboutEvent": {
+      "about1": "Discuss best methods for practicing sustainable agriculture",
+      "about2": "Assessing the environmental impact of agricultural practices"
+    }
+  }
+]
